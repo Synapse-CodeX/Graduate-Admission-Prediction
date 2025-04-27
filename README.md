@@ -64,11 +64,13 @@ This project predicts the likelihood of a student’s admission to a graduate pr
 - Deploy the model using a simple Flask or Streamlit app
 
 ## 🧑‍💻 Author
-- **Name**: [Debshuvra Sarkar]
+- **Name**: Debshuvra Sarkar
 - **University**: Jadavpur University
 - **Department**: Power Engineering
 - **Year**: 1st Year
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ---
 
 ⭐ If you like the project, feel free to star it and suggest improvements!
