@@ -70,7 +70,9 @@ This project predicts the likelihood of a student’s admission to a graduate pr
 - **Year**: 1st Year
 
 ## License
+
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ---
 
 ⭐ If you like the project, feel free to star it and suggest improvements!
