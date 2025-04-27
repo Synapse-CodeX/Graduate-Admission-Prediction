@@ -4,7 +4,7 @@ This project predicts the likelihood of a student’s admission to a graduate pr
 
 ## 📚 Dataset
 - **Name**: Graduate Admissions Dataset
-- **Source**: Kaggle (https://www.kaggle.com/datasets/mohansacharya/graduate-admissions)
+- **Source**: [Kaggle](https://www.kaggle.com/datasets/mohansacharya/graduate-admissions)
 - **Features**:
   - GRE Score (out of 340)
   - TOEFL Score (out of 120)
