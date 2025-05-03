@@ -1,0 +1,23 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Graduate Admission Predictor</title>
+</head>
+<body>
+    <h2>Graduate Admission Prediction</h2>
+    <form action="/predict" method="post">
+        GRE Score: <input type="number" name="gre" step="any" required><br><br>
+        TOEFL Score: <input type="number" name="toefl" step="any" required><br><br>
+        University Rating: <input type="number" name="rating" step="any" required><br><br>
+        SOP Strength (1-5): <input type="number" name="sop" step="any" required><br><br>
+        LOR Strength (1-5): <input type="number" name="lor" step="any" required><br><br>
+        CGPA: <input type="number" name="cgpa" step="any" required><br><br>
+        Research Experience (0 or 1): <input type="number" name="research" required><br><br>
+        <input type="submit" value="Predict">
+    </form>
+    <h3>{{ prediction_text }}</h3>
+</body>
+</html>
