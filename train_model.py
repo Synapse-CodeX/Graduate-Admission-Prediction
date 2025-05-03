@@ -1,7 +1,7 @@
 # Step 1: Load the dataset
 import pandas as pd
 
-df = pd.read_csv('Admission_Predict_Ver1.1.csv')
+df = pd.read_csv('/kaggle/input/graduate-admissions/Admission_Predict_Ver1.1.csv')
 
 # Drop unnecessary column
 df.drop(columns=['Serial No.'], inplace=True)
